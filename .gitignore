@@ -1,0 +1,14 @@
+.tools/
+work/
+dist/
+.env
+.env.*
+!.env.example
+.docker/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+.narrafork/
